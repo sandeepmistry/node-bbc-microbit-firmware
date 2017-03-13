@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<root>
+  <node _type="integer" _key="update">0</node>
+  <node _type="string" _key="repo_docs">81324/d7a25f36907e</node>
+  <node _type="string" _key="repo_docs_id">https://developer.mbed.org/teams/Lancaster-University/code/microbit-dal/#d7a25f36907e</node>
+  <node _type="integer" _key="repo_docs_ts">1460134075</node>
+  <node _type="string" _key="workspace_docs"></node>
+  <node _type="string" _key="workspace_docs_ts"></node>
+  <node _type="string" _key="workspace_docs_sync_id"></node>
+  <node _type="string" _key="sync_id">57818d279dd66</node>
+  <node _type="array" _key="markers"/>
+</root>

@@ -1,0 +1,4 @@
+[ui]
+ignore.local = .hg/hgignore
+[paths]
+default = https://developer.mbed.org/teams/Lancaster-University/code/mbed-dev-bin/

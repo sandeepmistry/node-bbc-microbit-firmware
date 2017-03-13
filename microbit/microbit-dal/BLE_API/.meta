@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<root>
+  <node _type="integer" _key="update">0</node>
+  <node _type="string" _key="repo_docs">81288/dd2f69fad8c6</node>
+  <node _type="string" _key="repo_docs_id">https://developer.mbed.org/teams/Lancaster-University/code/BLE_API/#dd2f69fad8c6</node>
+  <node _type="integer" _key="repo_docs_ts">1459964743</node>
+  <node _type="string" _key="workspace_docs"></node>
+  <node _type="string" _key="workspace_docs_ts"></node>
+  <node _type="string" _key="workspace_docs_sync_id"></node>
+  <node _type="string" _key="sync_id">57818d3d69a8d</node>
+  <node _type="array" _key="markers"/>
+</root>

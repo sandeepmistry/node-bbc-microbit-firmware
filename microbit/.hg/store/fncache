@@ -1,0 +1,6 @@
+data/inc/MicroBit.h.i
+data/module.json.i
+data/source/MicroBit.cpp.i
+data/microbit-dal.lib.i
+data/LICENSE.i
+data/README.md.i

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<root>
+  <node _type="integer" _key="update">0</node>
+  <node _type="string" _key="repo_docs">81325/9cbea9993ef1</node>
+  <node _type="string" _key="repo_docs_id">https://developer.mbed.org/teams/Lancaster-University/code/microbit/#9cbea9993ef1</node>
+  <node _type="integer" _key="repo_docs_ts">1460137796</node>
+  <node _type="string" _key="workspace_docs"></node>
+  <node _type="string" _key="workspace_docs_ts"></node>
+  <node _type="string" _key="workspace_docs_sync_id"></node>
+</root>
